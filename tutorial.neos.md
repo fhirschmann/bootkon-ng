@@ -1,4 +1,5 @@
-
+<walkthrough-tutorial-duration duration="60"></walkthrough-tutorial-duration>
+<walkthrough-tutorial-difficulty difficulty="3"></walkthrough-tutorial-difficulty>
 
 ## **Data & AI Boot-Kon Event \- Munich**
 
