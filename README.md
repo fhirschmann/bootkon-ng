@@ -35,3 +35,5 @@ Follow this [document](https://docs.google.com/document/d/16Hgp79OWxKScrVdhY4UmS
 
 
 [![Open this project in Cloud Shell](img/journey.svg)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/fhirschmann/bootkon-ng&page=editor&tutorial=tutorial.neos.md&show=ide&cloudshell_workspace=)
+
+
