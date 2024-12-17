@@ -22,7 +22,7 @@ This lab is for educational purposes only and should be used with caution in pro
 
 # **Architecture Diagram**
 
-<img src="img/lab1/architecture.png"></img> 
+![alt architecture] (https://github.com/fhirschmann/bootkon-ng/blob/6fcd8053abcc77520380fbe05a47f2f99511634d/img/lab1/architecture.png)x
 
 # **Choice of GCP Product and Service Location**
 
@@ -106,7 +106,7 @@ You are free to choose any GCP region location for all labs. Ensure all your res
 
 7. From the Jupyter Lab top menu, click on Git \-\> Clone a Repository 
 
-   !<img src="img/lab1/clonerepo.png"></img>  
+   <img src="img/lab1/clonerepo.png"></img>  
 
 8. Enter [https://github.com/fhirschmann/bootkon-h2-2024.git](https://github.com/fhirschmann/bootkon-h2-2024.git) and click on **clone**
 
@@ -148,3 +148,18 @@ No Instructions
 No Instructions
 
 To get started, click **Start**
+
+
+
+
+# Tutorial title
+
+<walkthrough-finish-button title="More solutions" tutorial="panels--sic--data-warehouse_toc"></walkthrough-finish-button>
+
+## Introduction
+
+Actual tutorial content would go here.
+
+## Congrats!
+
+You have now completed the tutorial for this solution!
