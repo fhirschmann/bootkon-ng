@@ -1,14 +1,6 @@
+# **Use Case Introduction**
 <walkthrough-tutorial-duration duration="60"></walkthrough-tutorial-duration>
 <walkthrough-tutorial-difficulty difficulty="3"></walkthrough-tutorial-difficulty>
-
-## **Data & AI Boot-Kon Event \- Munich**
-
-| Title: Boot-Kon Data & AI Event Structure & Instructions |  | Summary Brief explanation of the event structure and links to the user manuals |
-| ----- | :---- | :---- |
-| **Author**: DACE Team  | **Date**: 2024-11-22  | **Estimated Completion Time**:  6\~8 hours |
-|  |  |  |
-
-# **Use Case Introduction CARY**
 
 * About the company: FraudFix Technologies is a cutting-edge company focused on making financial transactions safer for Google Cloud enterprise customers across industries (financial institutions, online retailers, etc …)   
     
