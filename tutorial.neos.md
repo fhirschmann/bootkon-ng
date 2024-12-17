@@ -24,6 +24,8 @@ This lab is for educational purposes only and should be used with caution in pro
 
 ![alt architecture](https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/architecture.png?raw=true)
 
+<a href="https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/architecture.png?raw=true" target="_parent" >View image</a>
+
 
 # **Choice of GCP Product and Service Location**
 
