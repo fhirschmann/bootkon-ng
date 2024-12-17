@@ -55,15 +55,16 @@ You are free to choose any GCP region location for all labs. Ensure all your res
 
    ```
 
-2. Make the script executable: 
+2. Make the script executable
+
    ```bash 
    `chmod +x setup_environment.sh`  
    ```
+
 3. Run the script (takes around 3 minutes; may require you to copy an authentication token):
 
-       ```bash
        `./setup_environment.sh <PROJECT_ID> <GCP_USERNAME> <REGION>`
-      ```
+      
    
    **`Example:`**
 
