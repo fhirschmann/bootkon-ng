@@ -161,28 +161,28 @@ You are free to choose any GCP region location for all labs. Ensure all your res
 
 
 
-# **\[Hands-on Lab \- 2\] Data Ingestion with BigLake**
+## **\[Hands-on Lab \- 2\] Data Ingestion with BigLake**
 
 Follow Step by Step Instructions [here](https://docs.google.com/document/d/1NAcQb9qUZsyGSe2yPQWKrBz18ZRVCL7X9e-NDs5lQbk/edit?usp=drive_link)
 
-# **\[Hands-on Lab \- 3\] ELT with Dataform and LLM**
+## **\[Hands-on Lab \- 3\] ELT with Dataform and LLM**
 
 Follow Step by Step Instructions [here](https://docs.google.com/document/d/1NxfggQunrCn6ZfwGXAaA_lABDmXtRsfH88jkMDbqlJo/edit?usp=drive_link)
 
 # **\<Lunch Time: 60 Minutes\>**
 
-# **\[Hands-on Lab \- 4\] ML Operations with Vertex AI**
+## **\[Hands-on Lab \- 4\] ML Operations with Vertex AI**
 
 ***Note: You can start Hands-on Lab 5 while the Hands-on Lab 4 training jobs in Notebooks 2 & 3 are still running.***  
 Follow Step by Step Instructions [here](https://docs.google.com/document/d/1UdI1ffZdjy--_2xNmemQKzPCRXvCVw8JAroZqewiPMs/edit?usp=drive_link) 
 
-# **\[Hands-on Lab \- 5\] Agent Builder and Gemini**
+## **\[Hands-on Lab \- 5\] Agent Builder and Gemini**
 
 Follow Step by Step Instructions [here](https://docs.google.com/document/d/1_8-HEEIKCCUkwoorpWq8lOI3M1Rn6HqY4SlCW8AitGg/edit?usp=drive_link)
 
 **\<Coffee Break: 30 Minutes\>**
 
-# **Demo Data Canvas & Looker Studio**
+## **Demo Data Canvas & Looker Studio**
 
 No Instructions
 
@@ -197,10 +197,6 @@ To get started, click **Start**
 # Tutorial title
 
 <walkthrough-finish-button title="More solutions" tutorial="panels--sic--data-warehouse_toc"></walkthrough-finish-button>
-
-## Introduction
-
-Actual tutorial content would go here.
 
 ## Congrats!
 
