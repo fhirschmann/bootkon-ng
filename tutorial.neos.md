@@ -5,13 +5,22 @@
   <meta name="component_id" content="12345" />
 </walkthrough-metadata>
 
-<walkthrough-tutorial-duration duration="60"></walkthrough-tutorial-duration>
-<walkthrough-tutorial-difficulty difficulty="3"></walkthrough-tutorial-difficulty>
+
+# Data and AI Boot-Kon
+
+## Introduction
+
+Welcome to an example!
 
 
-# **\[Hands-on Lab \- 1\] Setup your environment**
+## **\[Hands-on Lab \- 1\] Setup your environment**
 
 # Follow Step by Step Instructions [here](https://docs.google.com/document/d/1RJcWKSmQ8-vLypuztkOlCCOfZcxIIgPu4v8wPpBmFhU/edit?usp=drive_link)
+
+
+
+<walkthrough-tutorial-duration duration="60"></walkthrough-tutorial-duration>
+<walkthrough-tutorial-difficulty difficulty="3"></walkthrough-tutorial-difficulty>
 
 
 **Goal of the lab Enable Google cloud services APIs Ensure your GCP user and service account have access to the required resources. Create GCP default network  Create Vertex AI notebook for the ML labs.** |
@@ -44,13 +53,25 @@ You are free to choose any GCP region location for all labs. Ensure all your res
       <a href="https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/termsofservice.png?raw=true" target="_parent">View image</a>
 
    3. Choose your **project ID**: it should be **gcp\_project\_id** you received by **Email**. Click on select a project and select the project ID (example below)  
-  <img src="img/lab1/selectproject.png"></img>  
-  <img src="img/lab1/selectproject2.png"></img> 
-   <img src="img/lab1/selectproject3.png"></img>  
+      ![alt selectproject](https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/selectproject.png?raw=true)
+
+      <a href="https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/selectproject.png?raw=true" target="_parent">View image</a>
+
+      ![alt selectproject](https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/selectproject2.png?raw=true)
+
+      <a href="https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/selectproject2.png?raw=true" target="_parent">View image</a>
+
+
+      ![alt selectproject](https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/selectproject3.png?raw=true)
+
+      <a href="https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/selectproject3.png?raw=true" target="_parent">View image</a>
+
    4. Initially you have been granted the project editor and IAM project admin roles.
 
 4. Click the **Cloud Shell** icon at the top right of the screen, it will open up a window at the bottom where you can execute commands in the next step. Click continue in the next window.  
-   <img src="img/lab1/cloudshell.png"></img>  
+      ![alt cloudshell](https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/cloudshell.png?raw=true)
+
+      <a href="https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/cloudshell.png?raw=true" target="_parent">View image</a>
 5. Open this github repository in a new browser tab [https://github.com/fhirschmann/bootkon-h2-2024/blob/main/setup\_environment.sh](https://github.com/fhirschmann/bootkon-h2-2024/blob/main/setup_environment.sh)  
      
    This script **automates** the set up, including enabling APIs, cloning the repository, setting up IAM permissions, creating a VPC network, and copying files to GCS.  
@@ -85,37 +106,53 @@ You are free to choose any GCP region location for all labs. Ensure all your res
 
 1. Go to Vertex AI in the GCP console.
 
-   <img src="img/lab1/vertexai.png"></img>  
+      ![alt vertexai](https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/vertexai.png?raw=true)
+
+      <a href="https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/vertexai.png?raw=true" target="_parent">View image</a>
 
 2. Click on the Workbench section.
 
-   <img src="img/lab1/workbench.png"></img>  
+      ![alt workbench](https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/workbench.png?raw=true)
+
+      <a href="https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/workbench.png?raw=true" target="_parent">View image</a>
 
 3. Select “User managed notebooks” 
 
-   <img src="img/lab1/usermanagednotebooks.png"></img>  
+      ![alt usermanagednotebooks](https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/usermanagednotebooks.png?raw=true)
+
+      <a href="https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/usermanagednotebooks.png?raw=true" target="_parent">View image</a>
 
 4.  “Create new”
 
-      <img src="img/lab1/createnew.png"></img>  
+      ![alt createnew](https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/createnew.png?raw=true)
+
+      <a href="https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/createnew.png?raw=true" target="_parent">View image</a>
 
    
 
 5. Name the notebook “***bootkon***” and leave the default network and environment. Leave the cheapest machine type; e2-standard-4 selected; 4 vCPUs and 16GB of RAM are more than enough to perform the ML labs using jupyter notebooks. Do not attach a GPU. Normally it takes around 10 minutes to get the instance created.
 
-   <img src="img/lab1/notebookbootkon.png"></img>  
+   ![alt notebookbootkon](https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/notebookbootkon.png?raw=true)
+
+   <a href="https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/notebookbootkon.png?raw=true" target="_parent">View image</a>
 
 6. Open the Jupyter Lab;
 
-   <img src="img/lab1/openjupyter.png"></img>  
+   ![alt openjupyter](https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/openjupyter.png?raw=true)
+
+   <a href="https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/openjupyter.png?raw=true" target="_parent">View image</a>
 
 7. From the Jupyter Lab top menu, click on Git \-\> Clone a Repository 
 
-   <img src="img/lab1/clonerepo.png"></img>  
+   ![alt clonerepo](https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/clonerepo.png?raw=true)
+
+   <a href="https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/clonerepo.png?raw=true" target="_parent">View image</a>
 
 8. Enter [https://github.com/fhirschmann/bootkon-h2-2024.git](https://github.com/fhirschmann/bootkon-h2-2024.git) and click on **clone**
 
-   <img src="img/lab1/clonerepo2.png"></img>  
+   ![alt clonerepo2](https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/clonerepo2.png?raw=true)
+
+   <a href="https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/clonerepo2.png?raw=true" target="_parent">View image</a>
 
    
 
