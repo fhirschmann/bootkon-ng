@@ -39,7 +39,9 @@ You are free to choose any GCP region location for all labs. Ensure all your res
    1. Log in with your **gcp\_username** and **gcp\_password**.  
    2. **Accept** the Terms of Service   
 
-      <img src="img/lab1/termsofservice.png"></img> 
+      ![alt termsofservice](https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/termsofservice.png?raw=true)
+
+      <a href="https://github.com/fhirschmann/bootkon-ng/blob/main/img/lab1/termsofservice.png?raw=true" target="_parent">View image</a>
 
    3. Choose your **project ID**: it should be **gcp\_project\_id** you received by **Email**. Click on select a project and select the project ID (example below)  
   <img src="img/lab1/selectproject.png"></img>  
